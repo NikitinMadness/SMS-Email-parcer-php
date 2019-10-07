@@ -1,0 +1,158 @@
+
+/* SMS 
+*/
+.inp_1{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(0, 118, 253);
+    border: solid 1px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    align-content: center;
+    color: white;
+}
+.inp_1:hover{
+    background-color: rgb(240, 11, 11); 
+    color: white;
+}
+
+
+button{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(0, 118, 253);
+    border: solid 1px;
+    border-color: rgb(0, 118, 253);
+    margin-left: 50px;
+    margin-bottom: 0px;
+    align-content: center;
+    color: white;
+}
+button:hover {
+    background-color: rgb(240, 11, 11); 
+    color: white;
+  }
+
+a{
+    color: white;
+}  
+
+.d_1{
+    border: solid 1px;
+    width: 250px;
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+}
+.d_2{
+    border: solid 1px;
+    width: 250px;
+    float: left;
+    text-align: center;
+}
+
+.vid_1{
+    margin-top: 50px;
+    margin-left: 600px;
+}
+.h3_1{
+    margin-left: 175px;
+}
+
+.h3_2{
+    margin-left: 140px;
+}
+
+.p3, .p5{
+    margin-right: 50px;
+}
+
+.d_9{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.b_77{
+    margin-left: 835px;
+    margin-top: 5px;
+}
+
+.ppl{
+    margin-left: 185px;
+    margin-top: 10px;
+}
+
+.ttx{
+    margin-bottom: 30px;
+    margin-left: 90px;
+}
+
+.main_1{
+    margin-left: 600px;
+    margin-top: 25px;
+}
+
+.d_3{
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+
+.bb_3{
+    margin-left: 67px;
+}
+
+.l_2{
+    margin-left: 5px;
+}
+/* Mail */
+
+.M_11{
+    margin-left: 600px;
+}
+
+.H32{
+    margin-left: 145px;
+}
+.ino_12{
+    margin-left: 280px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(0, 118, 253);
+    border: solid 1px;
+    align-content: center;
+    color: white;
+}
+
+.ino_12:hover{
+    background-color: rgb(240, 11, 11); 
+    color: white;
+}
+
+.M_1{
+    margin-left: 231px;
+}
+
+.R16_1{
+    margin-left: 600px;
+    margin-top: 20px;
+
+}
+
+.R_3{
+    margin-left: 5px;
+}
+.R_5{
+    margin-left: 670px;
+    margin-top: 8px;
+}
+
+.R_21{
+    margin-left:100px;
+}
